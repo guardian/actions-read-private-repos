@@ -1,0 +1,4 @@
+# These files are generated, hide their diff in a PR by default
+# See https://docs.github.com/en/repositories/working-with-files/managing-files/customizing-how-changed-files-appear-on-github
+index.js linguist-generated
+
